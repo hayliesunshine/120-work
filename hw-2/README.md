@@ -22,4 +22,4 @@ Haylie Peacock
 
 ## Atom Screenshot
 
-![Screenshot](..screenshot-atom.PNG)
+./<screenshot-atom.JPG>
