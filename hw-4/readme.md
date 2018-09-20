@@ -1,6 +1,6 @@
 # HW-4
 
-file:///C:/Users/dance/OneDrive/Documents/Creative%20Coding/120-work/hw-4/index.html
+[Self Portrait](https://hayliesunshine.github.io/120-work/hw-4/)
 
 Above is the link to my self portrait. 
 
