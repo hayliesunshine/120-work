@@ -1,4 +1,3 @@
-# 120-work
+120-work
 
-
-This is Haylie Peacock's repository for Creative Coding work.
+This is a repository for my course work for Creative Coding.
