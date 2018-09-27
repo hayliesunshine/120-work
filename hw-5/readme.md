@@ -1,6 +1,6 @@
 # HW-5
 
-Sketch (file:///C:/Users/dance/OneDrive/Documents/Creative%20Coding/120-work/hw-5/index.html)
+[Sketch](file:///C:/Users/dance/OneDrive/Documents/Creative%20Coding/120-work/hw-5/index.html)
 
 ## Weekly Report
 The work I did this week included reading multiple different pages and watching multiple videos about variables and animation, as well as playing with examples within the website. Then, I chose a character (a bird) to animate, and decided to have it move across the browser from left to right on its own, but the y-coordinate would be affected by the mouse position. The head would also rotate, obviously taking the eyes and beak with it. The background would be sky blue, refreshing every frame. I wrote the entire code for this project, but came across a pretty major problem: nothing was showing up besides my background, and I knew that my noCursor statement worked because my cursor did not show up in the browser. However, there was no bird. I still have not been able to figure this out, despite searching extensively on google, and posting in the issues forum. I will continue to work on this, and hopefully I will be able to find answers. One thing I would like to discuss further is the mechanics behind the angle and translate commands that were used together in the example code, because I don't think I quite understood that. I didn't feel comfortable trying to help my classmates in the forum this week, as I was struggling myself.
