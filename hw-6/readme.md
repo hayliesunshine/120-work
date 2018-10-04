@@ -1,6 +1,6 @@
-** Hw-6
+## Hw-6
 
-* Weekly Report
+# Weekly Report
 
 This week I learned about math in p5, as well as objects, algorithms, and random number generators. I read various sources about these, thoroughly read the code examples, and watched videos about them. 
 To complete the assignment, I took ideas from different examples that were given in the lesson, and thought of a way to combine them to create my own thing. I decided to make randomly appearing and randomly colored rings that are constrained to the inside of a circle. I wrote the code for this, occasionally looking at the website for help.
