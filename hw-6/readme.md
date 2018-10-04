@@ -1,4 +1,4 @@
-## (Hw-6)[https://hayliesunshine.github.io/120-work/hw-6/]
+## [Hw-6](https://hayliesunshine.github.io/120-work/hw-6/)
 
 # Weekly Report
 
