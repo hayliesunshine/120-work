@@ -1,6 +1,6 @@
 Haylie Peacock, MART 120
 
-[Live Sketch Link](https://github.hayliesunshine.io/120-work/HW-7/)
+[Live Sketch Link](https://hayliesunshine.github.io/120-work/HW-7/)
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
