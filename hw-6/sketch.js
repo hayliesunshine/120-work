@@ -1,11 +1,11 @@
 //defining giant circle
-var constraint = {};
+let constraint = {};
 //assigning qualities to constraint
  constraint.shape = ellipse( 0, 0, width/2, height/2);
 
 //defining ring variable
 //instantiating the variable as an object
-var ring = {};
+let ring = {};
 
   //assigning qualities to the object
   ring.bigSize = 60;
@@ -35,11 +35,13 @@ var ring = {};
 
   function draw() {
     //map function
-    var circleStroke = map( mouseX %3, 0, width, rgb(0, 255, 0), rgb(255, 255, 0) );
+    let circleStroke = map( mouseX %3, 0, width, rgb(0, 255, 0), rgb(255, 255, 0) );
 
     //properties of enclosing circle
     noFill();
     stroke(circleStroke);
+
+    constrain( mouseX, (width - 20), (height - 20) );
 
 
 
