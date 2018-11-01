@@ -1,11 +1,11 @@
 //defining giant circle
-let constraint = {};
+var constraint = {};
 //assigning qualities to constraint
- constraint.shape = ellipse( 0, 0, width/2, height/2);
+ constraint.shape = ellipse( 0, 0, windowWidth/2, windowHeight/2);
 
 //defining ring variable
 //instantiating the variable as an object
-let ring = {};
+var ring = {};
 
   //assigning qualities to the object
   ring.bigSize = 60;
@@ -26,7 +26,7 @@ let ring = {};
     //black background
     background ( '0' );
 
-    constraint.shape = ellipse( 0, 0, width/2, height/2);
+    constraint.shape = ellipse( 0, 0, windowWidth/2, WindowHeight/2);
 
     //starting position for ring in center of screen
     ring.locX = width/2;
@@ -35,14 +35,10 @@ let ring = {};
 
   function draw() {
     //map function
-    let circleStroke = map( mouseX %3, 0, width, rgb(0, 255, 0), rgb(255, 255, 0) );
 
     //properties of enclosing circle
     noFill();
     stroke(circleStroke);
-
-    constrain( mouseX, (width - 20), (height - 20) );
-
 
 
     //draw the ring
