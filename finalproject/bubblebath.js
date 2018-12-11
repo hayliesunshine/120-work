@@ -1,5 +1,5 @@
 
-class Bubble {
+class bubblebath {
   constructor(x, y, r) {
     this.x = x;
     this.y = y;
@@ -7,10 +7,10 @@ class Bubble {
 
     this.color = color(0,0,0);
     if( this.r < 25 ){
-      this.color = color(152, 251, 152);
+      this.color = color(230, 230, 250);
     }
     else {
-      this.color = color(135, 206, 250);
+      this.color = color(255, 240, 245);
     }
 
   }
@@ -28,17 +28,5 @@ class Bubble {
 
   }
 
-
-
-  bubbleCheck(b1) {
-    let d = dist(b1.x, b1.y, this.x, this.y);
-    let maxDist = b1.r + this.r;
-
-    if (d<=maxDist) {
-      this.color = color( random(255), random(255), random(255) );
-    }
-  
-
-  }
 
 }
